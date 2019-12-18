@@ -1,7 +1,7 @@
 {
   "name": "mobieve-sdk-js",
   "version": "0.1.0",
-  "description": "ERROR_UNKNOWN",
+  "description": "Mobieve SDK for Javascript Clients",
   "license": "Unlicense",
   "main": "dist/index.js",
   "scripts": {
